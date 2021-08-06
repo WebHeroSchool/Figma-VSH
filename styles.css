@@ -40,3 +40,18 @@
 .menu__item:last-child {
     padding-right: 0;
 }
+
+.main-content__title {
+    margin-top: 246px;
+    width: 567px;
+}
+
+.main-content__subtitle {
+    margin-top: 40px;
+    width: 455px;
+}
+
+.main-content__button {
+    margin-top: 41px;
+    width: 271px;
+}
